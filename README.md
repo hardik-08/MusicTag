@@ -4,6 +4,6 @@ This project was created in 2016 and is one of my first projects.
 
 ### Screenshots
 
-![Empty File](/screenshots/empty.png)
-![Open File](/screenshots/music.png)
+![Empty File](/screenshots/empty.PNG)
+![Open File](/screenshots/music.PNG)
 
